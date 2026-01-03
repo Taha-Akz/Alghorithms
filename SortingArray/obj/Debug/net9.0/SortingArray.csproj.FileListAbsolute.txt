@@ -1,0 +1,14 @@
+C:\Users\TahaAKZ\Desktop\Alghorithms\SortingArray\bin\Debug\net9.0\SortingArray.exe
+C:\Users\TahaAKZ\Desktop\Alghorithms\SortingArray\bin\Debug\net9.0\SortingArray.deps.json
+C:\Users\TahaAKZ\Desktop\Alghorithms\SortingArray\bin\Debug\net9.0\SortingArray.runtimeconfig.json
+C:\Users\TahaAKZ\Desktop\Alghorithms\SortingArray\bin\Debug\net9.0\SortingArray.dll
+C:\Users\TahaAKZ\Desktop\Alghorithms\SortingArray\bin\Debug\net9.0\SortingArray.pdb
+C:\Users\TahaAKZ\Desktop\Alghorithms\SortingArray\obj\Debug\net9.0\SortingArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TahaAKZ\Desktop\Alghorithms\SortingArray\obj\Debug\net9.0\SortingArray.AssemblyInfoInputs.cache
+C:\Users\TahaAKZ\Desktop\Alghorithms\SortingArray\obj\Debug\net9.0\SortingArray.AssemblyInfo.cs
+C:\Users\TahaAKZ\Desktop\Alghorithms\SortingArray\obj\Debug\net9.0\SortingArray.csproj.CoreCompileInputs.cache
+C:\Users\TahaAKZ\Desktop\Alghorithms\SortingArray\obj\Debug\net9.0\SortingArray.dll
+C:\Users\TahaAKZ\Desktop\Alghorithms\SortingArray\obj\Debug\net9.0\refint\SortingArray.dll
+C:\Users\TahaAKZ\Desktop\Alghorithms\SortingArray\obj\Debug\net9.0\SortingArray.pdb
+C:\Users\TahaAKZ\Desktop\Alghorithms\SortingArray\obj\Debug\net9.0\SortingArray.genruntimeconfig.cache
+C:\Users\TahaAKZ\Desktop\Alghorithms\SortingArray\obj\Debug\net9.0\ref\SortingArray.dll
